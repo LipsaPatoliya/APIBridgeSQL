@@ -38,7 +38,7 @@ CREATE DATABASE apnacollege;
 	(106,'Farah',82,'B','Delhi');
 
 	SELECT * from student;
------------------- SELECT in Details :used to select any data from the database.
+------------------ Edite in Details :used to select any data from the database.
 	/* *= all view
 	  select col1, col2 from tablename //view specific col data on table;
 	  SELECT DISTINCT col1 FROM tablename; //DISTINCT show uniq data and hide duplicate data
